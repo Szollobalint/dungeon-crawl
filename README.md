@@ -1,4 +1,4 @@
-# Roguelike Game
+# Dungeon crawl
 
 A roguelike game built with Java and JavaFX, offering challenging gameplay with procedurally generated levels.
 
