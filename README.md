@@ -1,6 +1,5 @@
 # Roguelike Game
 
-## One-Sentence Description
 A roguelike game built with Java and JavaFX, offering challenging gameplay with procedurally generated levels.
 
 ## Installation Instructions
