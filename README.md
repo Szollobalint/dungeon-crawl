@@ -8,15 +8,16 @@ A roguelike game built with Java and JavaFX, offering challenging gameplay with 
 git clone git@github.com:Szollobalint/dungeon-crawl.git
 ```
    
-Set Up the Environment:
+2. **Set Up the Environment:**
 
 Ensure you have Java JDK and Maven installed.
+
 Build the Project:
 
 ```bash
 mvn clean install
 ```
-Run the Game:
+3. **Run the Game:**
 
 ```bash
 mvn javafx:run
@@ -37,7 +38,7 @@ Collect items and get trough all the maps until the final boss fight.
 
 ## Technologies Used
 Programming Language: Java
-
+   
 Libraries and Frameworks: JavaFX, Maven
 
 
