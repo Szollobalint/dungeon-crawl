@@ -4,8 +4,9 @@ A roguelike game built with Java and JavaFX, offering challenging gameplay with 
 
 ## Installation Instructions
 1. **Clone the Repository:**
-   ```bash
-   git clone git@github.com:Szollobalint/dungeon-crawl.git
+```bash
+git clone git@github.com:Szollobalint/dungeon-crawl.git
+```
    
 Set Up the Environment:
 
